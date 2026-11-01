@@ -1,1 +1,8 @@
-# Calculator
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
